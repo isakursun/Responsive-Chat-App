@@ -7,4 +7,5 @@ A messaging project where we log in with our Google accounts and chat with users
 SCSS, Javascript, React and Firebase
 
 <h2>Screen<h2/>
+
 ![](ekran.gif)
